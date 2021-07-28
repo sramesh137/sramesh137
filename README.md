@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sramesh137
+- 👋 Hi, I’m Ramesh
 - 👀 I’m interested in Databases
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on IaaS and automation
