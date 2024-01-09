@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ramesh
-- 👀 I’m interested in Databases
-- 🌱 I’m currently learning devops
+- 💻 15+ Years of experience in IT Industry
+- 👀 Area of Interest: Databases
+- 🌱 I’m currently involving in devops
 - 💞️ I’m looking to collaborate on IaaS and automation
-- 📫 How to reach me on twitter: ramesh4f
 
 <!---
 sramesh137/sramesh137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
